@@ -1,7 +1,7 @@
 - 👋 Hi, I’m  Shaik Ishrath Banu
 - 👀 I’m interested in learning new things
 - 🌱 I’m currently learning various technical languages
-- currently pursuing my bachlor's degree
+- currently pursuing my bachelor of technology in computer science engineering..
 
 
 <!---
